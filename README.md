@@ -107,7 +107,7 @@ I define the following to test an integer value:
 
 Here is a diagram which illustrates what is shown in code:
 
- ![illustration](program_flow.png "Program Flow")
+ ![illustration](validator.JPG "Program Flow")
 
 Notice that you do not need to create a validator for all paths, only what you want to further
 test. So when the first validation test fails, we simply return fail as a return from Valid().
